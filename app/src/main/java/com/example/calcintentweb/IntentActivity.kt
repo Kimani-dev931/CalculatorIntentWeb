@@ -66,7 +66,7 @@ class IntentActivity : AppCompatActivity() {
             startActivity(shareIntent)
         }
         Buttoncall.setOnClickListener {
-            val intent=Intent(Intent.ACTION_CALL, Uri.parse("tel"+"+254 734224509"))
+            val intent=Intent(Intent.ACTION_CALL, Uri.parse("tel:0734224509"))
             if(ContextCompat.checkSelfPermission(this@IntentActivity,android.Manifest.permission.CALL_PHONE)!=PackageManager.PERMISSION_GRANTED){
                 ActivityCompat.requestPermissions(this@IntentActivity, arrayOf(android.Manifest.permission.CALL_PHONE),1)
 
