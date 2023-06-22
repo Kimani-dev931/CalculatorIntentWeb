@@ -19,5 +19,6 @@ Please refer to the screenshots below to observe how the app functions.
 ![Screenshot_20230622-180259](https://github.com/Kimani-dev931/CalculatorIntentWeb-App/assets/77829096/be5b685d-90f5-48d8-9f0a-47a621040e34)
 s/77829096/7dbd068a-1fcc-4683-bc52-e7a6898a5e2f)
 ![Screenshot_20230622-180403](https://github.com/Kimani-dev931/CalculatorIntentWeb-App/assets/77829096/d064e7e4-192f-4bf3-bb83-327a9157e54e)
+![Screenshot_20230622-180643](https://github.com/Kimani-dev931/CalculatorIntentWeb-App/assets/77829096/d9851972-9f29-4770-b2c5-cfa0098e30fb)
 
 
